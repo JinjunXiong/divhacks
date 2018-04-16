@@ -1,5 +1,13 @@
 # Handwriting Digits - Easy or hard? An [IBM](https://www.ibm.com/us-en/) DIV HACKS Project
 
+>**Updates on April 14, 2018**
+>
+>We thank [all teams](https://github.com/JinjunXiong/divhacks/issues/) who participated the IBM DIV HACKS challenge, and **congratulate** the following top teams for winning the >challenge (with no particular order).
+>
+>+ The team of [the Kenfri's Automaton team](https://github.com/JinjunXiong/divhacks/issues/6), by Mr. Kendal Sandridge and Mr. Yefri Gaitan
+>+ The team of [the Chunzi team](https://github.com/JinjunXiong/divhacks/issues/10), by Ms. Chunzi Wang
+>+ The team of [the 77 Model](https://github.com/JinjunXiong/divhacks/issues/9), by Mr. Salim M'jahad
+
 ## Introduction
 This project is specifically designed for the [DIV HACKS for Columbia University](https://cu-divhacks.github.io/) on April 14, 2018.
 
