@@ -2,11 +2,19 @@
 
 >**Updates on April 14, 2018**
 >
->We thank [all teams](https://github.com/JinjunXiong/divhacks/issues/) who participated the IBM DIV HACKS challenge, and **congratulate** the following top teams for winning the >challenge (with no particular order).
+>We thank [all teams](https://github.com/JinjunXiong/divhacks/issues/) who participated the IBM DIV HACKS challenge, and **congratulate** the following top teams for winning the challenge (with no particular order).
 >
 >+ The team of [the Kenfri's Automaton team](https://github.com/JinjunXiong/divhacks/issues/6), by Mr. Kendal Sandridge and Mr. Yefri Gaitan
 >+ The team of [the Chunzi team](https://github.com/JinjunXiong/divhacks/issues/10), by Ms. Chunzi Wang
 >+ The team of [the 77 Model](https://github.com/JinjunXiong/divhacks/issues/9), by Mr. Salim M'jahad
+
+![The Kenfri's Automaton team receiving the award from IBM's Dr. Jinjun Xiong](Kenfri.jpg)
+![The Chunzi team receiving the award from IBM volunteers](Chunzi.jpg)
+![IBM volunteers](ibm.jpg)
+
+All the winning team members were offered a summer internship at IBM T.J. Watson Research (and they all accepted!). Congratulations!!
+
+For more pictures about this event, please check out the [DivHack facebook page](https://www.facebook.com/pg/divhacks/photos/?tab=album&album_id=1742638039092085).
 
 ## Introduction
 This project is specifically designed for the [DIV HACKS for Columbia University](https://cu-divhacks.github.io/) on April 14, 2018.
